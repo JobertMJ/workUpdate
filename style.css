@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background: url(bg-home-office-studio.jpg);
+    background-size: cover;
+}
+
+header {
+    background: rgb(0 0 0 / 0.8);
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+    margin: 20px 0;
+    background: rgb(255 255 255 / 0.8);
+}
+
+a {
+    text-decoration: none;
+}
+
+footer {
+    background: rgb(0 0 0 / 0.8);
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: center;
+    bottom: 0;
+    height: 5%;
+    width: 100%;
+}
